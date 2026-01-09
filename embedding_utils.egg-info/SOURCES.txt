@@ -1,0 +1,16 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+embedding_utils/__init__.py
+embedding_utils/embeddings.py
+embedding_utils/similarity.py
+embedding_utils/vectors.py
+embedding_utils.egg-info/PKG-INFO
+embedding_utils.egg-info/SOURCES.txt
+embedding_utils.egg-info/dependency_links.txt
+embedding_utils.egg-info/requires.txt
+embedding_utils.egg-info/top_level.txt
+tests/test_embeddings.py
+tests/test_similarity.py
+tests/test_vectors.py
